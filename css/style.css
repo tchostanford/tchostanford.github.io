@@ -34,7 +34,6 @@ h1,h2,h3,h4,h5 {
 h1 {
   font-size: 62px;
   line-height: 72px;
-  color: #ffffff;
 }
 
 h2 {
@@ -137,7 +136,7 @@ p {
 /* home section styles
 /* ========================================== */
 #home {
-  background: url('../images/bg_test.jpeg') 50% 0 repeat-y fixed;
+  background: url('../images/tcho_img_test.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
