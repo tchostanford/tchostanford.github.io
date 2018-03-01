@@ -136,7 +136,7 @@ p {
 /* home section styles
 /* ========================================== */
 #home {
-  background: url('../images/bg_test.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/bg_test.jpeg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
